@@ -1,3 +1,7 @@
+<p align="center">
+  <h1>📊 CTS Open Analytics</h1>
+  <p>Marketing Analytics • SQL • Supabase • Multi‑Touch Attribution</p>
+</p>
 # CTS Open Analytics  
 A complete, open-source marketing analytics workflow built using SQL, Supabase-ready schemas, and multi-channel attribution logic.
 
